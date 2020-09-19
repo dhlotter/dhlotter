@@ -1,3 +1,5 @@
+![banner](https://ibb.co/HpvgTqZ)
+
 # hey 👋
 I have been in the data industry since the early 2000's and enjoyed the challenges faced primarily being a MSSQL database administrator. More recently however, my challenges consist of managing teams.  
 
