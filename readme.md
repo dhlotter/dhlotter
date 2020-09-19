@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/Fqv74zp/github-banner.jpg)
+![banner](https://i.ibb.co/7yLJmTK/1523167-10153016821701368-1770773107206429981-o.jpg)
 
 # hey 👋
 I have been in the data industry since the early 2000's and enjoyed the challenges faced primarily being a MSSQL database administrator. More recently however, my challenges consist of managing teams.  
