@@ -11,10 +11,10 @@ I help orgs catch waste. FinOps consulting and AWS cost audits, plus the tooling
 
 Solo SaaS builder under [Easy Entropy](https://easyentropy.com), building the tools for the problems above and a few of my own.
 
-| Project | What it is | Link |
-|---|---|---|
-| [Resubly](https://github.com/dhlotter/website-resubly) | SaaS contract management and renewal tracking | [resubly.com](https://resubly.com) |
-| [MessageMirror](https://github.com/dhlotter/website-message-mirror) | SMS backup and search, marketing site in Astro, plus an [Android app](https://github.com/dhlotter/app-android-messagemirror) | [messagemirror.app](https://messagemirror.app) |
-| [Nymly](https://github.com/dhlotter/website-nymly) | Domain tools on Next.js, Clerk auth, Convex database | |
-| [Pocket Aces](https://github.com/dhlotter/pocket-aces) | Poker night tournament clock and buy in ledger | [pocket-aces.pages.dev](https://pocket-aces.pages.dev) |
-| [ai-usage](https://github.com/dhlotter/ai-usage) | Rust macOS menu bar app showing how much of your Claude Code, Codex and GLM limits you have used | |
+| Project | What it is |
+|---|---|
+| [Resubly](https://github.com/dhlotter/website-resubly) | SaaS contract management and renewal tracking, live at [resubly.com](https://resubly.com) |
+| [MessageMirror](https://github.com/dhlotter/website-message-mirror) | SMS backup and search, marketing site in Astro, plus an [Android app](https://github.com/dhlotter/app-android-messagemirror), live at [messagemirror.app](https://messagemirror.app) |
+| [Nymly](https://github.com/dhlotter/website-nymly) | Domain tools on Next.js, Clerk auth, Convex database |
+| [Pocket Aces](https://github.com/dhlotter/pocket-aces) | Poker night tournament clock and buy in ledger, live at [pocket-aces.pages.dev](https://pocket-aces.pages.dev) |
+| [ai-usage](https://github.com/dhlotter/ai-usage) | Rust macOS menu bar app showing how much of your Claude Code, Codex and GLM limits you have used |
