@@ -15,8 +15,8 @@ Solo SaaS builder under [Easy Entropy](https://easyentropy.com), building the to
 
 | Project | What it is |
 |---|---|
-| [Resubly](https://resubly.com) | SaaS renewal tracker: every renewal, notice window, and contract owner in one place |
-| [MessageMirror](https://messagemirror.app) | Mirrors Android texts into Gmail and call logs into Google Calendar, nothing your phone loses is gone |
-| [Nymly](https://nymly.app) | AI business name generator with instant domain and social handle checks |
-| [Pocket Aces](https://pocket-aces.pages.dev) | Poker night tournament clock and buy in ledger, built for home games |
-| [ai-usage](https://github.com/dhlotter/ai-usage) | Rust macOS menu bar app showing how much of your Claude Code, Codex and GLM limits you have used |
+| [Resubly](https://resubly.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | SaaS renewal tracker: every renewal, notice window, and contract owner in one place |
+| [MessageMirror](https://messagemirror.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mirrors Android texts into Gmail and call logs into Google Calendar, nothing your phone loses is gone |
+| [Nymly](https://nymly.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | AI business name generator with instant domain and social handle checks |
+| [Pocket Aces](https://pocket-aces.pages.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Poker night tournament clock and buy in ledger, built for home games |
+| [ai-usage](https://github.com/dhlotter/ai-usage)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Rust macOS menu bar app showing how much of your Claude Code, Codex and GLM limits you have used |
