@@ -1,7 +1,5 @@
 # Hermann Lotter
 
-Three lanes: FinOps, SaaS tools, and Land Cruisers with a soft spot for EVs.
-
 ## FinOps
 
 I help organisations stop wasting money in the cloud. Cost optimization by trade, from AWS savings analyses to the reporting that keeps spend honest.
