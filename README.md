@@ -1,6 +1,6 @@
 # Hermann Lotter
 
-Cape Town based engineer and solo SaaS builder under [Easy Entropy](https://easyentropy.com). I like problems where the fix is: move the data, automate the loop, delete the manual step.
+Engineer and solo SaaS builder under [Easy Entropy](https://easyentropy.com). I like problems where the fix is: move the data, automate the loop, delete the manual step.
 
 ## What I'm building
 
