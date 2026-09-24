@@ -15,14 +15,6 @@ Cape Town based engineer and solo SaaS builder under [Easy Entropy](https://easy
 
 - Contributor to [Airbyte](https://github.com/airbytehq/airbyte): author of the Cursor source connector, open as [PR #82708](https://github.com/airbytehq/airbyte/pull/82708). It snapshots Cursor's rolling usage and spend window into permanent warehouse storage. Original prototype lives at [airbyte-source-cursor](https://github.com/dhlotter/airbyte-source-cursor).
 
-## How I work
-
-Ship, then iterate. Local first, measure everything, automate what survives contact with reality. The whole stack runs on AI agent infrastructure: model routing, skill libraries, cron driven agents. Most of what you see here was built with an agent in the loop.
-
-## Stack
-
-TypeScript, Python, Rust when it earns it, Astro and Next.js on the front, Cloudflare Workers, Pages and D1 for the plumbing, Doppler for secrets.
-
 ## Contact
 
 - Email: dhlotter@gmail.com
