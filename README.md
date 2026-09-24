@@ -1,6 +1,6 @@
 # Hermann Lotter
 
-Cape Town based engineer and operator. Technology Operations Manager at Kurtosys by day, solo SaaS builder under [Easy Entropy](https://easyentropy.com) by night. I like problems where the fix is: move the data, automate the loop, delete the manual step.
+Cape Town based engineer and solo SaaS builder under [Easy Entropy](https://easyentropy.com). I like problems where the fix is: move the data, automate the loop, delete the manual step.
 
 ## What I'm building
 
@@ -14,7 +14,6 @@ Cape Town based engineer and operator. Technology Operations Manager at Kurtosys
 ## Open source
 
 - Contributor to [Airbyte](https://github.com/airbytehq/airbyte): author of the Cursor source connector, open as [PR #82708](https://github.com/airbytehq/airbyte/pull/82708). It snapshots Cursor's rolling usage and spend window into permanent warehouse storage. Original prototype lives at [airbyte-source-cursor](https://github.com/dhlotter/airbyte-source-cursor).
-- [career-ops](https://github.com/dhlotter/career-ops): job search pipeline automation, daily scans with scoring and notifications.
 
 ## How I work
 
