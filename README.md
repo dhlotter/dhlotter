@@ -1,6 +1,6 @@
 # Hermann Lotter
 
-Engineer and solo SaaS builder under [Easy Entropy](https://easyentropy.com). I like problems where the fix is: move the data, automate the loop, delete the manual step.
+I help organisations stop wasting money in the cloud. FinOps by trade, solo SaaS builder under [Easy Entropy](https://easyentropy.com), where I build the tools for it: cost optimization, contract and renewal tracking, and the plumbing that keeps manual work from creeping back.
 
 ## What I'm building
 
