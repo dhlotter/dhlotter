@@ -13,8 +13,8 @@ Solo SaaS builder under [Easy Entropy](https://easyentropy.com), building the to
 
 | Project | What it is |
 |---|---|
-| [Resubly](https://resubly.com) | SaaS renewal tracker for finance and ops teams |
-| [MessageMirror](https://messagemirror.app) | Android texts into Gmail, call logs into Calendar, plus an [Android app](https://github.com/dhlotter/app-android-messagemirror) |
-| [Nymly](https://nymly.app) | AI business name generator with domain and social checks |
-| [Pocket Aces](https://pocket-aces.pages.dev) | Poker night tournament clock and buy in ledger |
-| [ai-usage](https://github.com/dhlotter/ai-usage) | macOS menu bar app for your Claude Code, Codex and GLM limits |
+| [Resubly](https://resubly.com) | SaaS renewal tracker for finance and ops teams: every renewal, notice window, and contract owner in one place |
+| [MessageMirror](https://messagemirror.app) | Mirrors Android texts into Gmail and call logs into Google Calendar, so nothing your phone would lose is gone, plus an [Android app](https://github.com/dhlotter/app-android-messagemirror) |
+| [Nymly](https://nymly.app) | AI business name generator with instant domain and social handle checks |
+| [Pocket Aces](https://pocket-aces.pages.dev) | Poker night tournament clock and buy in ledger, built for home games |
+| [ai-usage](https://github.com/dhlotter/ai-usage) | Rust macOS menu bar app showing how much of your Claude Code, Codex and GLM limits you have used |
