@@ -5,7 +5,7 @@
 I help orgs catch waste. FinOps consulting and AWS cost audits, plus the tooling to keep it fixed.
 
 - Contributor to [Airbyte](https://github.com/airbytehq/airbyte): author of the Cursor source connector, open as [PR #82708](https://github.com/airbytehq/airbyte/pull/82708). It snapshots Cursor's rolling usage and spend window into permanent warehouse storage. Original prototype lives at [airbyte-source-cursor](https://github.com/dhlotter/airbyte-source-cursor).
-- [Cloud Savings](https://github.com/dhlotter/website-cloud-savings): AWS cost optimization tooling.
+- [Cloud Savings](https://savings.easyentropy.com): AWS cost optimization tooling.
 
 ## Easy Entropy
 
