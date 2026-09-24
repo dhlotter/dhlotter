@@ -16,7 +16,3 @@ Solo SaaS builder under [Easy Entropy](https://easyentropy.com), building the to
 - [Nymly](https://github.com/dhlotter/website-nymly): Next.js, Clerk auth, Convex database.
 - [Pocket Aces](https://github.com/dhlotter/pocket-aces): poker night tournament clock and buy in ledger, live at [pocket-aces.pages.dev](https://pocket-aces.pages.dev).
 - [ai-usage](https://github.com/dhlotter/ai-usage): a Rust macOS menu bar app that shows how much of your Claude Code, Codex and GLM limits you have used.
-
-## Land Cruisers and EVs
-
-Toyota Land Cruiser 80 series restorations, and an ongoing argument with myself about whether the next one should be electric.
