@@ -22,8 +22,3 @@ Solo SaaS builder under [Easy Entropy](https://easyentropy.com), building the to
 ## Land Cruisers and EVs
 
 Toyota Land Cruiser 80 series restorations, and an ongoing argument with myself about whether the next one should be electric.
-
-## Contact
-
-- Email: dhlotter@gmail.com
-- LinkedIn: [linkedin.com/in/dhlotter](https://www.linkedin.com/in/dhlotter)
